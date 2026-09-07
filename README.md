@@ -20,11 +20,13 @@ Fase 2, construcción del servicio: en desarrollo.
 
 ## Documentación
 
-Fase 1:
+Fase 1. La guía de definición es un documento individual, por lo que hay una por integrante.
 
-[Guía de definición del proyecto APT](docs/fase-1/1.5_GuiaEstudiante_Fase%201_Definicion%20Proyecto%20APT.docx)
+[Guía de definición del proyecto APT — Ponce de León](docs/fase-1/1.5_GuiaEstudiante_Fase1_PonceDeLeon.docx)
 
-[Presentación expuesta](docs/fase-1/Presentacion%20Fase%201%20-%20aSIIstente.pdf)
+[Guía de definición del proyecto APT — Gómez](docs/fase-1/1.5_GuiaEstudiante_Fase1_Gomez.docx)
+
+[Presentación expuesta](docs/fase-1/Presentacion_Fase1_aSIIstente.pdf)
 
 ## Equipo
 
